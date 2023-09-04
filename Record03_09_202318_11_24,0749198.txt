@@ -1,0 +1,8 @@
+Temperatura = 8,443858
+Umidita = 23,868025
+
+
+Temperatura = 5,626588
+Umidita = 10,950473
+
+
